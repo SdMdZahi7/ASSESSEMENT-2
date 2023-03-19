@@ -3,7 +3,7 @@ class animal{
         System.out.println("I am walking");
     }
 }
-class Bird extends Animal {
+class Bird extends animal {
     void fly(){
         System.out.print("I am flying");
     }
